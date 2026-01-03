@@ -1,0 +1,2 @@
+admin can add or remove users
+admin can change passwords
