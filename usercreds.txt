@@ -2,3 +2,5 @@ hi this are user creds
 
 name= rvj
 pass= pwr
+
+adding avatar for user
