@@ -7,3 +7,5 @@ adding avatar for user
 
 new user is added
 creds =  name= svj password= svb
+
+hi i am new user
