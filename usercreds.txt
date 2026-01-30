@@ -4,3 +4,5 @@ name= rvj
 pass= pwr
 
 adding avatar for user
+
+new user is added
